@@ -14,13 +14,10 @@
 
 1. Clone the repository:
    ```
-   git clone [repository-link]
+   git clone https://github.com/vaidikrvyas/IS601-Midterm
    ```
-2. Navigate to the project directory:
-   ```
-   cd advanced-python-calculator
-   ```
-3. Install required dependencies:
+
+2. Install required dependencies:
    ```
    pip install -r requirements.txt
    ```

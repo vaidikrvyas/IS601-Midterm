@@ -1,4 +1,4 @@
-# Advanced Python Calculator
+# Advanced Python Calculator - Midterm Project
 
 ## Project Overview
 
